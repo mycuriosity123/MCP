@@ -1,0 +1,5 @@
+langchain-mcp-adapters
+mcp
+duckduckgo_search
+langgraph
+langchain_openai
